@@ -1,4 +1,5 @@
 # 📄 PDF Q&A Chatbot
+![Demo](demo.png)
 
 A RAG-based chatbot that lets you upload any PDF and ask questions about it — with source citations.
 
